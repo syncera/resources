@@ -1,4 +1,4 @@
-# resources
+# noshitsecurity
 things I found useful
 
 <b>BLOGS</b>
