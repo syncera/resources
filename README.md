@@ -1,7 +1,7 @@
 # resources
 things I found useful
 
-BLOGS
+<b>BLOGS</b>
 
 •	VetSec
 https://www.veteransec.com/blog/ 
