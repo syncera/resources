@@ -1,7 +1,7 @@
 # \#noshitsecurity
 things I found useful
 
-<h1>sincera's list</h1>
+<p></p><h1>sincera's list</h1>
 	<br>
 	<br>
 <table width="100%" bgcolor="#324F61" border="0" bordercolor="#324F61" cellspacing="0" cellpadding="3">
@@ -21,7 +21,6 @@ things I found useful
 	<li><a href="https://kentosec.com/2019/10/09/how-to-pass-the-oscp-a-beginner-friendly-guide/ " target="_blank">Kentosec</a></li>
 	<li><a href="https://pinkysplanet.net/failing-the-oscp-exam/" target="_blank">PinkysPlanet</a></li>
 	<li><a href="https://www.veteransec.com/blog/" title="VetSec" target="_blank">VetSec</a></li>
-	
 </ul>
 <table width="100%" bgcolor="#324F61" border="0" bordercolor="#324F61" cellspacing="0" cellpadding="3">
   <tbody>
@@ -36,20 +35,18 @@ things I found useful
   <li><a href="https://www.pentestpartners.com/security-blog/cobalt-strike-walkthrough-for-red-teamers/" target="_blank">CobaltStrike Walkthrough</a></li>
   <li><a href="https://blog.cobaltstrike.com/2012/12/05/offense-in-depth/" target="_blank">Cobalt Strike Offense-In-Depth</a></li>
   <li><a href="https://medium.com/@bigb0ss/red-team-cobalt-strike-4-0-malleable-c2-profile-guideline-eb3eeb219a7c" target="_blank">Creatring a C2 Profile in CobaltStrike</a></li>
-  <li><a href="https://#">Disable core dumps (Linux)</a>
-    <ul>
-      <li><a href="https://www.cyberciti.biz/faq/linux-disable-core-dumps/" target="_blank">Cyberciti's guide</a></li>
-      <li><a
+	<li><a href="https://#">Disable core dumps (Linux)</a></li>
+    	<ul>
+     	 <li><a href="https://www.cyberciti.biz/faq/linux-disable-core-dumps/" target="_blank">Cyberciti's guide</a></li>
+			<li><a
 href="https://linux-audit.com/understand-and-configure-core-dumps-work-on-linux/" target="_blank">Understanding and configuring core dumps</a></li>
-    </ul>
-  </li>
+		</ul>
   <li><a href="https://www.dshield.org/" target="_blank">DShield Honeypot</a></li>
   <li><a href="https://www.dfir.training/resources/references/test-images-and-challenges/test-images-and-challenges/all" target="_blank">Forensic Test Images</a></li>
   <li><a href="https://attack.mitre.org/resources/getting-started/" target="_blank">Getting Started with MITRE ATT&CK</a></li>
-  <li><a href="https://#">Hardening Unix/Linux Servers</a>
+	<li><a href="https://#">Hardening Unix/Linux Servers</a></li>
     <ul>
 		<li><a href="https://vez.mrsk.me/linux-hardening.html" target="_blank">Blakkheim's guide</a></li>
-
 		<li><a
 href="https://linux-audit.com/ubuntu-server-hardening-guide-quick-and-secure/" target="_blank">LinuxAudit's guide</a></li>
       <li><a
@@ -59,8 +56,7 @@ href="https://security.stackexchange.com/questions/131800/how-do-i-harden-compil
       <li><a
 href="https://www.ostechnix.com/how-to-limit-users-access-to-the-linux-system/" target="_blank">How to limit a user's access (Unix)</a></li>
 	  <li><a href="https://ubuntu.com/server/docs" target="_blank">Ubuntu server docs</a></li>
-    </ul>
-  </li>
+	</ul>
   <li><a href="https://github.com/Ice3man543/hawkeye" target="_blank">Hawkeye forensics</a></li>
   <li><a href="https://hblock.molinero.xyz/" target="_blank">HBlock automatic hosts file hardening</a></li>
   <li><a href="https://bruteforcelab.com/honeydrive" target="_blank">The HoneyDrive Project</a></li>
@@ -413,9 +409,9 @@ href="https://github.com/MooseDojo/apt2/blob/master/README.md" target="_blank">A
 href="https://github.com/brandonlw/Psychson" target="_blank">BadUSB</a></li>
 	<li><a href="https://blog.netspi.com/exploiting-adidns/" target="_blank">Beyond LLMNR Spoofing</a></li>
   <li><a href="https://trailofbits.github.io/ctf/exploits/binary1.html" target="_blank">Binay Exploits</a></li>
-  <li> <a
-href="https://nagarrosecurity.com/blog/interactive-buffer-overflow-exploitation" target="_blank">Buffer Overflow interactive guide</a</li>
-  <li> <a
+  <li><a
+href="https://nagarrosecurity.com/blog/interactive-buffer-overflow-exploitation" target="_blank">Buffer Overflow interactive guide</a></li>
+  <li><a
 href="https://veteransec.com/2018/09/10/32-bit-windows-buffer-overflows-made-easy/" target="_blank">Buffer Overslow (32bit) made easy with VeteranSec</a></li>
   <li><a
 href="http://index-of.co.uk/Hacking-Coleccion/15%20-%20Buffer%20Overflow%20(Root%20On%20Server%20Ii)%20%5b-PUNISHER-%5d.pdf" target="_blank">Buffer Overflow whitepaper by Punisher</a></li>
@@ -647,4 +643,3 @@ href="https://computingforgeeks.com/how-to-monitor-vmware-esxi-with-grafana-and-
 <p>&nbsp;</p>
 </body>
 </html>
-
