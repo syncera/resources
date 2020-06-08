@@ -1,5 +1,4 @@
 # \#noshitsecurity
-things I found useful
 
 <p></p><h1>sincera's list</h1>
 	<br>
