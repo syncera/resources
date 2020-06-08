@@ -326,16 +326,13 @@ href="https://www.hofferle.com/generating-lists-of-computer-names-with-powershel
   <li><a
 href="https://activedirectorypro.com/join-computer-to-domain-using-powershell/" target="_blank">Join a domain</a></li>
   <li><a
-href="https://jackiechen.org/2011/08/03/powershell-uninstall-software-remotely/" target="_blank">Manipulate Packages Remotely with WMI</a>
+href="https://jackiechen.org/2011/08/03/powershell-uninstall-software-remotely/" target="_blank">Manipulate Packages Remotely with WMI</a></li>
     <ul>
-      <li> <a
-href="https://theitbros.com/using-psexec-to-run-commands-remotely/" target="_blank">Do it with PSExec</a></li>
+      <li><a href="https://theitbros.com/using-psexec-to-run-commands-remotely/" target="_blank">Do it with PSExec</a></li>
         <li><a href="https://docs.microsoft.com/en-us/powershell/module/microsoft.powershell.core/invoke-command?view=powershell-6" target="_blank">Invoke-Command</a></li>
 		<li><a
 href="https://devblogs.microsoft.com/scripting/learn-how-to-run-powershell-scripts-against-multiple-computers/" target="_blank">Run scripts against multiple computers</a></li>
-    
     </ul>
-  </li>
   <li><a
 href="https://docs.microsoft.com/en-us/powershell/module/netswitchteam/?view=win10-ps" target="_blank">NIC bonding </a></li>
   <li><a href="https://github.com/EvotecIT/PSWinDocumentation/" target="_blank">PSWinDocumentation module</a></li>
