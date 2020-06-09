@@ -1,6 +1,65 @@
-# \#noshitsecurity
+<!doctype html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>sincera's list</title>
+<style type="text/css">
+body {
+	background-color: #1B2A32;
+}
+body,td,th {
+	color: #EAEAEA;
+	font-family: Segoe, Segoe UI, DejaVu Sans, Trebuchet MS, Verdana, sans-serif;
+}
+a:link {
+	color: #0079B8;
+	text-decoration: none;
+}
+a:visited {
+	color: #6B8192;
+	text-decoration: none;
+}
+a:hover {
+	color: #0092DF;
+	text-decoration: none;
+	
+}
+a:active {
+	color: #FFFFFF;
+	text-decoration: none;
+}
+h1 {
+	font-size: xx-large;
+}
+h2 {
+	font-size: x-large;
+}
+h3 {
+	font-size: large;
+}
 
-<p></p><h1>sincera's list</h1>
+p.MsoNormal {mso-style-unhide:no;
+	mso-style-qformat:yes;
+	mso-style-parent:"";
+	margin:0in;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:"Calibri",sans-serif;
+	mso-ascii-font-family:Calibri;
+	mso-ascii-theme-font:minor-latin;
+	mso-fareast-font-family:Calibri;
+	mso-fareast-theme-font:minor-latin;
+	mso-hansi-font-family:Calibri;
+	mso-hansi-theme-font:minor-latin;
+	mso-bidi-font-family:"Times New Roman";
+	mso-bidi-theme-font:minor-bidi;}
+</style>
+	
+</head>
+
+<body>
+	<p></p><h1>sincera's list</h1>
 	<br>
 	<br>
 <table width="100%" bgcolor="#324F61" border="0" bordercolor="#324F61" cellspacing="0" cellpadding="3">
@@ -43,19 +102,19 @@ href="https://linux-audit.com/understand-and-configure-core-dumps-work-on-linux/
   <li><a href="https://www.dshield.org/" target="_blank">DShield Honeypot</a></li>
   <li><a href="https://www.dfir.training/resources/references/test-images-and-challenges/test-images-and-challenges/all" target="_blank">Forensic Test Images</a></li>
   <li><a href="https://attack.mitre.org/resources/getting-started/" target="_blank">Getting Started with MITRE ATT&CK</a></li>
-	<li><a href="https://#">Hardening Unix/Linux Servers</a></li>
+  <li><a href="https://#">Hardening Unix/Linux Servers</a></li>
     <ul>
 		<li><a href="https://vez.mrsk.me/linux-hardening.html" target="_blank">Blakkheim's guide</a></li>
 		<li><a
 href="https://linux-audit.com/ubuntu-server-hardening-guide-quick-and-secure/" target="_blank">LinuxAudit's guide</a></li>
+	  <li><a
+href="https://security.stackexchange.com/questions/131800/how-do-i-harden-compilers-as-suggested-by-lynis" target="_blank">Hardening  compilers</a></li>
       <li><a
 href="https://hostadvice.com/how-to/how-to-harden-your-ubuntu-18-04-server/" target="_blank">HostAdvice's guide</a></li>
       <li><a
-href="https://security.stackexchange.com/questions/131800/how-do-i-harden-compilers-as-suggested-by-lynis" target="_blank">How to harden an Ubuntu server</a></li>
-      <li><a
-href="https://www.ostechnix.com/how-to-limit-users-access-to-the-linux-system/" target="_blank">How to limit a user's access (Unix)</a></li>
-	  <li><a href="https://ubuntu.com/server/docs" target="_blank">Ubuntu server docs</a></li>
-	</ul>
+href="https://www.ostechnix.com/how-to-limit-users-access-to-the-linux-system/" target="_blank">Limiting user's access</a>	  </li>
+      <li><a href="https://ubuntu.com/server/docs" target="_blank">Ubuntu server docs</a></li>
+    </ul>
   <li><a href="https://github.com/Ice3man543/hawkeye" target="_blank">Hawkeye forensics</a></li>
   <li><a href="https://hblock.molinero.xyz/" target="_blank">HBlock automatic hosts file hardening</a></li>
   <li><a href="https://bruteforcelab.com/honeydrive" target="_blank">The HoneyDrive Project</a></li>
@@ -577,10 +636,12 @@ href="https://www.youtube.com/watch?v=eY7R4SeHh-E" target="_blank">Threat Valida
   </tbody>
 </table>
 <ul>
+  <li><a href="Automatically deploy customizable Active Directory labs in Azure" target="_blank">Automated Build, Active Directory Hunting Lab in Azure</a></li>
   <li><a
-href="https://github.com/PaulSec/awesome-windows-domain-hardening/blob/master/README.md" target="_blank">Awesome Windows Domain Hardening Resources</a></li>
+href="https://github.com/PaulSec/awesome-windows-domain-hardening/blob/master/README.md" target="_blank">  Awesome Windows Domain Hardening Resources</a></li>
   <li><a
-href="https://www.lifewire.com/command-line-commands-for-control-panel-applets-2626060" target="_blank">Control Panel One-Liners</a></li>
+href="https://www.lifewire.com/command-line-commands-for-control-panel-applets-2626060" target="_blank">Control Panel One-</a><a
+href="https://www.lifewire.com/command-line-commands-for-control-panel-applets-2626060" target="_blank">Liners</a></li>
   <li><a
 href="https://docs.microsoft.com/en-us/windows-server/networking/core-network-guide/cncg/server-certs/deploy-server-certificates-for-802.1x-wired-and-wireless-deployments" target="_blank">Deploy Server Certificates for RADIUS</a></li>
   <li><a
@@ -624,14 +685,14 @@ href="https://www.vladan.fr/install-esxi-6-to-usb-as-destination-or-have-it-as-s
 href="https://linuxacademy.com/blog/containers/kubernetes-cheat-sheet/?utm_source=linkedin&amp;utm_medium=social&amp;utm_campaign=2020_kubernetesblogs">Kubernetes Cheat Sheet</a></li>
   <li><a
 href="https://blog.inkubate.io/install-and-manage-automatically-a-kubernetes-cluster-on-vmware-vsphere-with-terraform-and-kubespray/">Kubernetes on vSphere with Terraform and Kubespray</a></li>
+  <li><a
+href="https://computingforgeeks.com/how-to-monitor-vmware-esxi-with-grafana-and-telegraf/" target="_blank">Monitor ESXi with Telegraf</a></li>
+  <li><a href="https://www.youtube.com/watch?v=-EbufUS86zA" target="_blank">OS Deployment with ESXi</a></li>
   <li><a href="https://docs.docker.com/engine/security/https/">Protect the Docker Daemon Socket</a></li>
   <li><a
 href="https://www.vmwareblog.org/forgot-esxi-root-password-no-problems-4-ways-reset/" target="_blank">Reset the ESXi root password</a></li>
   <li><a
 href="https://www.vmwareblog.org/reset-vcenter-server-appliance-root-password/" target="_blank">Reset vCenter root password</a></li>
-  <li><a
-href="https://computingforgeeks.com/how-to-monitor-vmware-esxi-with-grafana-and-telegraf/" target="_blank">Monitor ESXi with Telegraf</a></li>
-	<li><a href="https://www.youtube.com/watch?v=-EbufUS86zA" target="_blank">OS Deployment with ESXi</a></li>
 </ul>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
