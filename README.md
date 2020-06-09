@@ -1,6 +1,6 @@
 #noshitsecurity
 
-	<p></p><h1>sincera's list</h1>
+	<h1>sincera's list</h1>
 	<br>
 	<br>
 <table width="100%" bgcolor="#324F61" border="0" bordercolor="#324F61" cellspacing="0" cellpadding="3">
