@@ -1,4 +1,4 @@
-# #\noshitsecurity
+# #noshitsecurity
 ## sincera's list
 
 <table width="100%" bgcolor="#324F61" border="0" bordercolor="#324F61" cellspacing="0" cellpadding="3">
